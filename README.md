@@ -6,21 +6,21 @@ The site uses **AOS (Animate On Scroll)** for smooth scroll animations and is fu
 
 ## ✨ Features
 
-✅ **Responsive Design** – Works on all screen sizes (mobile, tablet, and desktop)
-✅ **Animated Sections** – Scroll animations using AOS library
-✅ **Smooth Navigation** – Sticky header and mobile-friendly navigation menu
-✅ **Skills & Services Sections** – Showcases skill levels with progress bars and cards
-✅ **Work/Projects Gallery** – Image gallery with hover effects
-✅ **Contact Form** – Simple form to send messages
+- **Responsive Design** – Works on all screen sizes (mobile, tablet, and desktop
+- **Animated Sections** – Scroll animations using AOS library
+- **Smooth Navigation** – Sticky header and mobile-friendly navigation menu
+- **Skills & Services Sections** – Showcases skill levels with progress bars and cards
+- **Work/Projects Gallery** – Image gallery with hover effects
+- **Contact Form** – Simple form to send messages
 
 
 ## 🛠️ Technologies Used
 
-* **HTML5** for the structure
-* **CSS3** for styling and responsiveness
-* **JavaScript** for interactivity (menu toggle, scroll effects)
-* **Font Awesome** for icons
-* **AOS.js** for scroll animations
+- **HTML5** for the structure
+- **CSS3** for styling and responsiveness
+- **JavaScript** for interactivity (menu toggle, scroll effects)
+- **Font Awesome** for icons
+- **AOS.js** for scroll animations
 
 
 ## 📂 Folder Structure
