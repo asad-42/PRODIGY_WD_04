@@ -34,14 +34,25 @@ The site uses **AOS (Animate On Scroll)** for smooth scroll animations and is fu
 ## 🚀 Live Demo
 
 *(Optional: Add your GitHub Pages link here after you deploy, for example:)*
-[👉 View Live Demo](https://your-username.github.io/your-repo-name/)
+[👉 View Live Demo](https://asad-42.github.io/PRODIGY_WD_04/)
 
 ## 📦 How to Use
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/asad-42/PRODIGY_WD_04.git
    ```
-2. Open `index.html` in your browser or host it on any static site hosting (GitHub Pages, Netlify, etc.)
+
+# -- **OR** --
+
+2. To run it on **VS Code**
+*a. Create a Project folder on your device, followed by make three program files like below --*
+📂PORTFOLIO/
+📄index.html
+📄style.css
+📄script.js
+*b. Drag and drop these codes to your code editor*
+*c. Click on 'Show Preview' or 'Go Live'*
+*d. Thats All...!*
 
