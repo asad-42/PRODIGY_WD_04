@@ -47,12 +47,12 @@ The site uses **AOS (Animate On Scroll)** for smooth scroll animations and is fu
 # -- **OR** --
 
 2. To run it on **VS Code**
-*a. Create a Project folder on your device, followed by make three program files like below --*
+- *a. Create a Project folder on your device, followed by make three program files like below --*
 - 📂PORTFOLIO/
 - 📄index.html
 - 📄style.css
 - 📄script.js
-*b. Drag and drop these codes to your code editor*
-*c. Click on 'Show Preview' or 'Go Live'*
-*d. Thats All...!*
+- *b. Drag and drop these codes to your code editor*
+- *c. Click on 'Show Preview' or 'Go Live'*
+- *d. Thats All...!*
 
